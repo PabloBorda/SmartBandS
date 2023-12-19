@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook
+END
+FacebookGraphObjectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/FacebookGraphObjectException.java
+END
+LegacyHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/LegacyHelper.java
+END
+LoggingBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/LoggingBehavior.java
+END
+NativeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/NativeProtocol.java
+END
+FacebookDialogException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/FacebookDialogException.java
+END
+RequestAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/RequestAsyncTask.java
+END
+FacebookServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/FacebookServiceException.java
+END
+FacebookSdkVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/FacebookSdkVersion.java
+END
+TestSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/TestSession.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/Session.java
+END
+AccessTokenSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/AccessTokenSource.java
+END
+FacebookRequestError.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/FacebookRequestError.java
+END
+UiLifecycleHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/UiLifecycleHelper.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/Response.java
+END
+AuthorizationClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/AuthorizationClient.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/Settings.java
+END
+AccessToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/AccessToken.java
+END
+NonCachingTokenCachingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/NonCachingTokenCachingStrategy.java
+END
+FacebookAuthorizationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/FacebookAuthorizationException.java
+END
+GetTokenClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/GetTokenClient.java
+END
+TokenCachingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/TokenCachingStrategy.java
+END
+HttpMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/HttpMethod.java
+END
+SessionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/SessionState.java
+END
+LoginActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/LoginActivity.java
+END
+SessionDefaultAudience.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/SessionDefaultAudience.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/Request.java
+END
+FacebookException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/FacebookException.java
+END
+FacebookOperationCanceledException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/FacebookOperationCanceledException.java
+END
+SharedPreferencesTokenCachingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/SharedPreferencesTokenCachingStrategy.java
+END
+RequestBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/RequestBatch.java
+END
+SessionLoginBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/facebook/SessionLoginBehavior.java
+END

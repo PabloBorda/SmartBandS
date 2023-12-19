@@ -1,0 +1,55 @@
+10
+
+dir
+605
+http://dev.smartbands.com.ar/magic/android/SmartBandS/trunk/SmartBandS/res
+http://dev.smartbands.com.ar/magic
+
+
+
+2013-05-26T13:53:42.992749Z
+498
+bordiber
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+bd845740-f237-407e-8f85-ea9965f2443c
+
+values
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+values-es
+dir
+
+drawable-ldpi
+dir
+
+values-he
+dir
+
+drawable-xhdpi
+dir
+
+values-iw
+dir
+
+layout
+dir
+

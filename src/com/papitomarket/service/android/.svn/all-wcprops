@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/magic/!svn/ver/504/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/service/android
+END
+IUpdatesManager.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/service/android/IUpdatesManager.aidl
+END
+Updates.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/magic/!svn/ver/504/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/service/android/Updates.java
+END
+NotificationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/service/android/NotificationMessage.java
+END
+SBStartsAtBoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/service/android/SBStartsAtBoot.java
+END

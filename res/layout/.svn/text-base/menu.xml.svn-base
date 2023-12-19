@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF">
+     
+    <TextView android:id="@+id/wellcome"
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    android:text=""/>
+    
+    <LinearLayout
+        android:layout_height="0dp"
+        android:layout_width="fill_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:background="#FFFFFF">
+
+        <ImageButton
+            android:id="@+id/search_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="#303030"
+            android:padding="5px"
+            android:src="@drawable/buy" />
+
+        <ImageButton
+            android:id="@+id/barcode_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="#303030"
+            android:padding="5px"
+            android:src="@drawable/barcode" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_height="0dp"
+        android:layout_width="fill_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:background="#FFFFFF">
+
+        <ImageButton
+            android:id="@+id/log_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="#303030"
+            android:padding="5px"
+            android:src="@drawable/logs" />
+
+        <ImageButton
+            android:id="@+id/invite_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="#303030"
+            android:padding="5px"
+            android:src="@drawable/invite" />
+
+    </LinearLayout>
+ 
+    <LinearLayout
+        android:layout_height="0dp"
+        android:layout_width="fill_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:background="#FFFFFF"
+    >
+
+        <ImageButton
+            android:id="@+id/sell_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="#303030"
+            android:padding="5px"
+            android:src="@drawable/sell" />
+
+        <ImageButton
+            android:id="@+id/buycredit_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="#303030"
+            android:padding="5px"
+            android:src="@drawable/cred" />
+
+    </LinearLayout>
+ 
+    <LinearLayout
+        android:layout_height="0dp"
+        android:layout_width="fill_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:background="#FFFFFF">
+
+        <ImageButton
+            android:id="@+id/settings_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="#303030"
+            android:padding="5px"
+            android:src="@drawable/tags" />
+
+        <ImageButton
+            android:id="@+id/exit_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="#303030"
+            android:padding="5px"
+            android:src="@drawable/quit" />
+
+    </LinearLayout> 
+
+
+</LinearLayout>

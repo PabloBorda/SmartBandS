@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rellay"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical" >
+    
+    
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/online" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="You are online!"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/cartBtn"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentRight="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/cart" />
+            
+    </RelativeLayout>
+            
+    
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center" >
+
+        <TableRow
+            android:id="@+id/searchbox"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <com.papitomarket.widgets.TagAutoCompleteTextView
+                android:id="@+id/widget33"
+                android:layout_width="fill_parent"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/rounded_edittext"
+                android:text="ie: empanada"
+                android:textSize="50dp" />
+
+            <ProgressBar
+                android:id="@+id/widget34"
+                android:layout_width="50px"
+                android:layout_height="50px"/>
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/results"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <ListView
+                android:id="@android:id/android:list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_span="3"
+                android:layout_weight="1"
+                android:drawSelectorOnTop="false" >
+            </ListView>
+        </TableRow>
+    </TableLayout>
+
+
+</LinearLayout>

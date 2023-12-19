@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/notifications/android
+END
+SBChargeCreditNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/notifications/android/SBChargeCreditNotification.java
+END
+SBNotificationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/notifications/android/SBNotificationFactory.java
+END
+SBQuestionNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/notifications/android/SBQuestionNotification.java
+END
+SBAnnouncementNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/notifications/android/SBAnnouncementNotification.java
+END
+SBTagNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/notifications/android/SBTagNotification.java
+END
+SBNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/notifications/android/SBNotification.java
+END
+SBSoldNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/notifications/android/SBSoldNotification.java
+END

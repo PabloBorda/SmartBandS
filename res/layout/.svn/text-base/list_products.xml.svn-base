@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rowcito"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <ImageView
+        android:id="@+id/prodicon"
+        android:layout_width="30px"
+        android:layout_height="30px"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="0px"
+        
+        android:src="@drawable/view" >
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/productname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:text="@+id/label"
+        android:textSize="20px" >
+
+    </TextView>
+    
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:text="@+id/label"
+        android:textSize="20px" >
+
+    </TextView>
+
+
+</TableRow>

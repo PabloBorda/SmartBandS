@@ -1,0 +1,31 @@
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/guau"
+        android:gravity="top|center_vertical" >
+
+          <TextView android:id="@+id/connectstatus"
+                            android:layout_centerHorizontal="true"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"/>
+
+          <ImageButton
+              android:id="@+id/cartBtn"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentBottom="true"
+              android:layout_alignParentLeft="true"
+              android:layout_marginBottom="63dp"
+              android:adjustViewBounds="true"
+              android:baselineAlignBottom="false"
+              android:contentDescription="@string/fbutton"
+              android:padding="0dp"
+              android:paddingBottom="0dp"
+              android:paddingLeft="0dp"
+              android:paddingRight="0dp"
+              android:paddingTop="0dp"
+              android:scaleType="centerInside"
+              android:src="@drawable/fbutton" />
+              
+    </RelativeLayout>

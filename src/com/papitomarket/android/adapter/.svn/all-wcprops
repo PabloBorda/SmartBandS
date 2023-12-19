@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/android/adapter
+END
+SoldAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/android/adapter/SoldAdapter.java
+END
+ProductsAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/android/adapter/ProductsAdapter.java
+END
+CategoriesAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/android/adapter/CategoriesAdapter.java
+END
+MobileArrayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/android/adapter/MobileArrayAdapter.java
+END
+AddrArrayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/magic/!svn/ver/496/android/SmartBandS/trunk/SmartBandS/src/com/papitomarket/android/adapter/AddrArrayAdapter.java
+END
